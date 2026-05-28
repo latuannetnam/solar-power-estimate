@@ -1,0 +1,2 @@
+REM python estimate_solar.py --lat 21.034181741415647 --lon 105.73529922999515 --date 2026-05-28 --capacity-kw 10 --tilt 15 --azimuth 180
+python estimate_solar.py --lat 21.034181741415647 --lon 105.73529922999515  --capacity-kw 10 --tilt 15 --azimuth 180
